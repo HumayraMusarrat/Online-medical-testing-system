@@ -1,1 +1,1 @@
-# Online-medical-testing-system
+# COVID-19-Testing-Management-System
